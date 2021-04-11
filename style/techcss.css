@@ -1,0 +1,36 @@
+body{
+  background-color: white;          
+  
+  
+  }
+
+.follow-us{
+
+
+  text-align: center;
+   /* font-weight: bolder; */
+   font:  small-caps bold 12px/30px Georgia, serif;
+  color: #606060;
+}
+.follow-para{
+  line-height: 10%;
+}
+.followus-logo{
+  padding-left: 37%;
+}
+  
+ 
+  
+.contact_form{
+  border: transparent;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.footer{
+  background-color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+  
